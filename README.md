@@ -14,3 +14,6 @@
 
 * /user页面目前由后端servlet直接输出html生成；
 * dao目前未连接数据库，用户信息代码中写死；
+
+## 如何运行
+* 在InelliJ中可以直接生成Artifact并部署在设置的Tomcat
